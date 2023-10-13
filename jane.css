@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.body{
+    background: #252222;
+    padding: 30px;
+   
+}
+
+h1{
+    color:  #FF7A00;;
+    font-family: poppins;
+}
+.profile{
+    margin:30px auto;
+    padding: 20px;
+    /* border: 2px solid white; */
+    width: 20%;
+    display: block;
+    text-align: center;
+    background-color: #363839; ;
+    height: fit-content;
+    color: white;
+
+}
+img{
+    width: 50%;
+
+}
+button{
+    background-color:  #FF7A00;
+    color: white;
+    border: none;
+    padding: 5px;
+}
